@@ -1,10 +1,10 @@
-# [Mavana Camilla] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Mavana Camilla] <img src="https://i.pinimg.com/originals/11/fb/da/11fbda3fb3a9d019f3358026f29754be.gif" width="120px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Mavana Camilla </strong>, <strong>Sou uma estudante de ADS, curiosa em progamação, desenhista, escritora, amante de dogs</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>estou atualmente aprendendo, ingles, espanhol, frances, libras e um pouco de japones </strong> 
+- 💬 Pergunte-me sobre: <strong>Escrever, ler livros, passear com meus dogs, ouvir musica, ver animes, jogos, mestrar RPG, filmes e ficar em casa</strong>
+- 📣 Nós podemos falar em: <strong>Ingles, Frances, libras, espanhol, japones</strong>
 
 <div align="center">
 
